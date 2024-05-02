@@ -18,3 +18,8 @@ Scripts folder:
   
 Output folder:
 - analysis.pdf
+
+## Section 3: Reproducing the results
+1. Place the testing and training data folders into your workin directory.
+2. Install all necessary modules in your kernel.
+3. Run the `ipynb` file in vscode with proper kernel, inspect your results in the notebook output.
